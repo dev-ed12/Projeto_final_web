@@ -1,0 +1,177 @@
+
+body{
+    background-color: #f3f3bc;
+    /* background-image: url('./imagens/EXTERIOR EDITADO.png'); */
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+div{
+    background-color: #f3f3bc;
+    
+}
+
+.exterior{
+    width: 100%;
+    height: auto;  /* deixar na largura e altura boa para que nao fique distorcido*/
+    padding-left: 2%;
+}
+.links-navbar {
+    font-size: 1em;
+    color: rgb(0, 0, 0);
+    margin-left:20px;
+}
+
+.nome-loja{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 1.5em;
+    color: #f3f3bc;
+    text-shadow: 2px 2px black;
+}
+
+.anunciopromo{
+    color:yellowgreen; /*deixar o titulo da promoção centralizado*/
+    text-align: center;
+    background-color: black;
+}
+
+.promobolo{
+    height: auto;
+    width: 25%;
+    justify-content: center;
+}
+
+.promo-bolo-solo{
+    width: 45%;
+}
+
+.img-carousel{
+    display:inline-flex;
+    justify-content: space-around;
+}
+
+.img-carousel-solo{
+    display:inline-flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.texto-carousel{
+    background-color: rgba(250, 235, 215, 0.644);
+    color: black;
+}
+
+.rodapeee{ 
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.esquerdaaa{
+    align: left;
+    width: em;
+}
+
+.centrooo{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.direitaaa{
+    align: right;
+    width: 33em;
+}
+
+.social-icon {
+    height: 2em;
+    display: flex;
+    justify-content: center;
+}
+
+.links-media-rodape{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-around;
+}
+.funcionarios{
+    height: 10em;
+    width: 29em;
+}
+#cultura-valores {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+  }
+  
+  .container {
+    max-width: 1000px;
+    text-align: center;
+    margin-top: 1.5em;
+    margin-bottom: 2.5em;
+  }
+  
+  .content {
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .text {
+    flex: 1;
+    text-align: left;
+  }
+  
+  .image {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* Opcional: arredondar as bordas da imagem */
+  }
+  
+  .container h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #f3f3bc;
+    text-shadow: 2px 2px black;
+  }
+  
+  .container p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    width: 90%;
+  }
+  
+  .container ol {
+    list-style-type: circle;
+    padding-left: 5%;
+    width: 70%;
+  }
+
+  
+  .container ul li {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+
+
